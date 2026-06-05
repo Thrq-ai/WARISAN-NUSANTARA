@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787090672699",
+    "project_id": "warisannusantara-8c40e",
+    "storage_bucket": "warisannusantara-8c40e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787090672699:android:b07f3d368bb9e2da56a01e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRBfEj8RR0oTHfYctCOjKT8vqB-WaX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
